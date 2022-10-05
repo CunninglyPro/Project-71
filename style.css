@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.mymaindiv {
+    background: linear-gradient(#36d1dc 0%, #ffc371 100%);
+}
+
+.mymaindiv img {
+    margin-top: 15px;
+}
+
+.awards {
+    font-size: 20px;
+    padding: 22px 6px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.awards i {
+    float: right;
+    cursor: pointer;
+}
+
+.awards_2022 span {
+    color: orange;
+}
